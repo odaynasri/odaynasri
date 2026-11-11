@@ -127,9 +127,9 @@ As my Ausbildung progresses, I'll continue adding projects and documenting what 
 
 ## GitHub Stats
 
-![Oday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=odaynasri&show_icons=true&hide_border=true)
+![Oday's GitHub Stats](https://github-stats-extended.vercel.app/api?username=odaynasri&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odaynasri&layout=compact&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=odaynasri&layout=compact&hide_border=true)
 
 ## Portfolio
 
